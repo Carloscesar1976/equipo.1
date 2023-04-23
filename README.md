@@ -1,6 +1,6 @@
 # equipo.1 
 integrantes
-santa cruz carlos
+santa cruz carlos,
 mateo garcia juarez 
-violeta mercado
+ violeta mercado
 martin natasha celeste
